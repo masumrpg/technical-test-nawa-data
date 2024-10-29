@@ -29,7 +29,7 @@ To create a JavaScript program that sorts a string containing vowels and consona
 - Concatenate the sorted vowels and consonants strings to form the final sorted string.
 - Display the final sorted string on the console.
 
-### Minimum Bus Required
+### PSBB Minimum Bus Required
 
 **Problem:**
 
